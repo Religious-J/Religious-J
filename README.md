@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 | ------------- | ------------- | -->
 
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Religious-J&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clareses&theme=radical" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Religious-J&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Religious-J&theme=radical&hide_border=true&langs_count=8&layout=compact" /> |
 | ------------- | ------------- |
